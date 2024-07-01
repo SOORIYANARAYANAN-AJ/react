@@ -1,0 +1,29 @@
+{
+  "name": "narayanan-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOORIYANARAYANAN-AJ/react.git"
+  },
+  "author": "Sooriya Narayanan A J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOORIYANARAYANAN-AJ/react/issues"
+  },
+  "homepage": "https://github.com/SOORIYANARAYANAN-AJ/react#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
